@@ -1,6 +1,6 @@
 {
     "name": "wilhelmsempre/youtube",
-    "description": "Little library to get youtube code for display in iframe.",
+    "description": "Little library to get movie information from youtube link.",
     "autoload": {
         "psr-4": {
             "WilhelmSempre\\Youtube\\": "src/"
